@@ -1,0 +1,18 @@
+{
+  "name": "chorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && browserify ./lib/max-js.js > chorder-max-js.js && cat ./chorder-max-loader.js >> ./chorder-max-js.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^14.5.0",
+    "daccord": "^2.0.1",
+    "teoria": "^2.5.0",
+    "typescript": "^2.5.3"
+  }
+}

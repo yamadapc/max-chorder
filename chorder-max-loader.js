@@ -1,0 +1,2 @@
+
+var chordToMidi = Global.mChordToMidi;
