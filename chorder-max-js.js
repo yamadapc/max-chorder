@@ -8,7 +8,7 @@ function chordToMidi(chord) {
 exports.chordToMidi = chordToMidi;
 
 },{"teoria":9}],2:[function(require,module,exports){
-// "use strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var chord_to_midi_1 = require("./chord-to-midi");
 inlets = 1;
