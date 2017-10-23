@@ -13,6 +13,8 @@ perform a varied set of chords after a very light set-up phase.
 - [ ] Chord should stay pressed while the button is pressed
 - [ ] Accept MIDI input like a Drum rack
 
+![](patch-screenshot.png)
+
 ## License
 **max-chorder** bundled JavaScript, TypeScript source and Max Patch are
 available under the GPLv3 license.
